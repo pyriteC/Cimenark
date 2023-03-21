@@ -1,5 +1,7 @@
 
-bin\
+bin
 *.class
 *.xcuserstate
 .DS_Store
+bin/controller/Controller.class
+bin/
