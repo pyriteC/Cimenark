@@ -12,6 +12,7 @@ private int lazyness;
 //variable stats 
 private int morale;
 private double level;
+
 	public employee()
 	{
 		
